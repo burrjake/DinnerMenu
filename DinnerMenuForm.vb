@@ -1,4 +1,10 @@
-﻿Public Class DinnerMenuForm
+﻿'Jake Burrell
+'RCET0265
+'Fall 2020
+'Diner Menu Program
+'https://github.com/burrjake/DinnerMenu.git
+
+Public Class DinnerMenuForm
     'The cancel button is the Exit button which is also connected to x
     'The accept button is the Soup button
 
